@@ -1,0 +1,13 @@
+MODELS,MEAN SQUARE ERROR
+Decision Tree Model,25498988.42
+,
+Linear regression Model,12823412.3
+,
+Neural network Model,450420534.7
+,
+Support Vector Model,1451534889
+,
+RandomForest Model,22212671.17
+,
+,
+Best Model is Linear regression Model,
